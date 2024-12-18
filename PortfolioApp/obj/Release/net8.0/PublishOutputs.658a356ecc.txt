@@ -1,0 +1,7 @@
+C:\Users\Tripur Muley\Desktop\project.net\WebResume\MyPotfolio\out\PortfolioApp.exe
+C:\Users\Tripur Muley\Desktop\project.net\WebResume\MyPotfolio\out\appsettings.Development.json
+C:\Users\Tripur Muley\Desktop\project.net\WebResume\MyPotfolio\out\appsettings.json
+C:\Users\Tripur Muley\Desktop\project.net\WebResume\MyPotfolio\out\PortfolioApp.dll
+C:\Users\Tripur Muley\Desktop\project.net\WebResume\MyPotfolio\out\PortfolioApp.deps.json
+C:\Users\Tripur Muley\Desktop\project.net\WebResume\MyPotfolio\out\PortfolioApp.runtimeconfig.json
+C:\Users\Tripur Muley\Desktop\project.net\WebResume\MyPotfolio\out\PortfolioApp.pdb

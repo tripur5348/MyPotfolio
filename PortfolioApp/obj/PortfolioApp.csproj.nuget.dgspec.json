@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tripur Muley\\source\\repos\\PortfolioApp\\PortfolioApp\\PortfolioApp.csproj": {}
+    "C:\\Users\\Tripur Muley\\Desktop\\project.net\\WebResume\\MyPotfolio\\PortfolioApp\\PortfolioApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tripur Muley\\source\\repos\\PortfolioApp\\PortfolioApp\\PortfolioApp.csproj": {
+    "C:\\Users\\Tripur Muley\\Desktop\\project.net\\WebResume\\MyPotfolio\\PortfolioApp\\PortfolioApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tripur Muley\\source\\repos\\PortfolioApp\\PortfolioApp\\PortfolioApp.csproj",
+        "projectUniqueName": "C:\\Users\\Tripur Muley\\Desktop\\project.net\\WebResume\\MyPotfolio\\PortfolioApp\\PortfolioApp.csproj",
         "projectName": "PortfolioApp",
-        "projectPath": "C:\\Users\\Tripur Muley\\source\\repos\\PortfolioApp\\PortfolioApp\\PortfolioApp.csproj",
+        "projectPath": "C:\\Users\\Tripur Muley\\Desktop\\project.net\\WebResume\\MyPotfolio\\PortfolioApp\\PortfolioApp.csproj",
         "packagesPath": "C:\\Users\\Tripur Muley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tripur Muley\\source\\repos\\PortfolioApp\\PortfolioApp\\obj\\",
+        "outputPath": "C:\\Users\\Tripur Muley\\Desktop\\project.net\\WebResume\\MyPotfolio\\PortfolioApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
